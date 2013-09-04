@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">设备信息</string>
+    
+    <string name="screen_width">屏幕宽</string>
+    <string name="screen_height">屏幕高</string>
+    <string name="density">密度</string>
+    <string name="density_dpi">密度DPI</string>
+    <string name="screen_width_dip">屏幕宽DPI</string>
+    <string name="screen_height_dip">屏幕高DPI</string>
+</resources>

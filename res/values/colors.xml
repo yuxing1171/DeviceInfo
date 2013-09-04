@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_window">#3D3D3D</color>
+    <color name="text_black">#333333</color>
+    <color name="background_list">#EEEEEE</color>
+</resources>
