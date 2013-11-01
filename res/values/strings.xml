@@ -9,4 +9,7 @@
     <string name="density_dpi">密度DPI</string>
     <string name="screen_width_dip">屏幕宽DPI</string>
     <string name="screen_height_dip">屏幕高DPI</string>
+    <string name="android_id">Android ID</string>
+    <string name="imei">IMEI</string>
+    <string name="mac_address">Mac Address</string>
 </resources>
